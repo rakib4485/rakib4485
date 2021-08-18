@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/Developer.gif" width="200px">
 </p>
-<h1 align="center">Hello Everyone!!👋, I'm Md. Rakibuk Islam</h1>
+<h1 align="center">Hello Everyone!!👋, I'm Md. Rakibul Islam</h1>
 
 
 <br>
