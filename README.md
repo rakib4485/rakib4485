@@ -20,7 +20,7 @@ Hi, I'm Md. Rakibul Islam, a passionate web developer from Bangladesh. I spend m
 <h3> 🎯 I’m focusing on Competitive Programming.</h3>
 
 <h3>
-<details> <summary>💬 How to reach me😎 </summary> <a href="https://www.instagram.com/xbayazid/" target="blank"><img align="center" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="27px" /> </a> <a href="https://www.linkedin.com/in/bayazid-hossain-221220202/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="27px" /></a> </a> 
+<details> <summary>💬 How to reach me😎 </summary> <a href="https://www.instagram.com/mdrakib44854/" target="blank"><img align="center" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="27px" /> </a> <a href="https://www.linkedin.com/in/md-rakibul-islam-9874541b4/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="27px" /></a> </a> 
 </details>  
 </h3>
 
