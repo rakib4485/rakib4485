@@ -13,7 +13,7 @@ Hi, I'm Md. Rakibul Islam, a passionate web developer from Bangladesh. I spend m
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
 
 <br>
-<h3> 🔭 I'm the 3<sup>rd</sup> year student of Computer Science & Engineering.</h3>
+<h3> 🔭 I'm the 4<sup>th</sup> year student of Computer Science & Engineering.</h3>
 
 <h3> 🌱 I’m currently Developing Projects in Web Development.</h3>
 
