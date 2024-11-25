@@ -13,13 +13,18 @@ Hi, I'm Md. Rakibul Islam, a passionate web developer from Bangladesh. I spend m
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
 
 <br>
-<h3> 🔭 I'm the 4<sup>th</sup> year student of Computer Science & Engineering.</h3>
 
-<h3> 🌱 I’m currently Developing Projects in Web Development.</h3>
+- 🔭 I’m currently working on **Front-End Development**
 
-<h3> 🎯 I’m focusing on Competitive Programming.</h3>
+- 🌱 I’m currently learning **Web Development**
 
-<h3>
+- 💬 Ask me about **Javascript, React, NodeJs**
+
+- 📫 How to reach me **mdrakibul.developer@gmail.com | mdrakibul.jti@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Get in touch:</h3>
 <details> <summary>💬 How to reach me😎 </summary> <a href="https://www.instagram.com/mdrakib44854/" target="blank"><img align="center" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="27px" /> </a> <a href="https://www.linkedin.com/in/md-rakibul-islam-9874541b4/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="27px" /></a> </a> 
 </details>  
 </h3>
