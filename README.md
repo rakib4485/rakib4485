@@ -49,8 +49,8 @@ Hi, I'm Md. Rakibul Islam, a passionate web developer from Bangladesh. I spend m
 <h2> ⚡ Streak Status 🤩</h2>
 
 <p align="center">
-    <a href="https://github.com/xbayazid/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=streak" src="https://github-readme-streak-stats.herokuapp.com/?user=xbayazid&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/rakib4485/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib4485&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -58,11 +58,11 @@ Hi, I'm Md. Rakibul Islam, a passionate web developer from Bangladesh. I spend m
 
 <p align="center">
   <a href="https://github.com/rakib4485" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=xbayazid&theme=gruvbox&layout=compact&title_color=00FF00"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=rakib4485&theme=gruvbox&layout=compact&title_color=00FF00"/>
   </a>
 </p>
 
-![Divyansh github activity graph](https://activity-graph.herokuapp.com/graph?username=xbayazid&theme=dracula&layout=compact&title_color=FF69B4)
+![Divyansh github activity graph](https://activity-graph.herokuapp.com/graph?username=rakib4485&theme=dracula&layout=compact&title_color=FF69B4)
 
 <br>
 
