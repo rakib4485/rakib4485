@@ -13,7 +13,6 @@ Hi, I'm Md. Rakibul Islam, a passionate web developer from Bangladesh. I spend m
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
 
 <br>
-- 🔭 I’m currently working on **JT International Bangladesh**
 
 - 🔭 I’m currently working on **Front-End Development**
 
